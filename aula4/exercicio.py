@@ -1,7 +1,7 @@
 import cv2
 
 NOME = "Leticia Akemi Sumida"
-RA = "24008474"
+RA = "000000000"
 
 vermelho = (0, 0, 255)
 verde = (0, 255, 0)
